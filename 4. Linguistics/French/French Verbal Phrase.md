@@ -1,0 +1,5 @@
+A verbal phrase is a phrase that centres around a verb and **includes its modifiers and complements**. A **modifier** is an umbrella term for adjectives, adverbs, and anything that modifies meaning, but is not necessary. **Complements** are necessary units of meaning that provide information about the verb.
+- *In the sentence "She is a teacher," "a teacher" is a complement that completes the meaning of "is."*
+- *In "He gave her a book," "a book" is a complement giving more information about what was given.*
+## Infinitives
+The choice between *à* and *de* before an infinitive is not arbitrary. ==***À*** often suggests a purpose, direction, or a specific action== to be completed, while <mark style="background: #FFB86CA6;"><i><b>de</b></i> can imply a need, result, or consequence of the action</mark>. For instance, *commencer à* indicates the start of an action, whereas *finir de* indicates the completion of an action.

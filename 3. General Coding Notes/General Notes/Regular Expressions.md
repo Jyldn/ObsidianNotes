@@ -1,0 +1,12 @@
+[Learn Regular Expressions In 20 Minutes](https://www.youtube.com/watch?v=rhzKDrUiJVk)
+- **\d:** any digit
+- **\w:** any alphanumeric 
+- **. (wildcard):** joker, can represent any character
+- **\[abc]:** matches a *single* a, b, or c  
+- **\[^abc]:** match everything *but* a, b, and c
+-  **\[A-Za-z0-9_]:** match characters within the range, this particular range is equivalent to *\w*
+- **{a}3:** returns a exactly three times in a row 
+- **\* (Kleene Star):** match *0 or more* of the preceding character
+- **+ (Kleene Plus):**  match *1 or more* of the preceding character
+- **? (optional):** match *0 or 1* of the preceding character
+- 

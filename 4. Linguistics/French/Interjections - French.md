@@ -1,0 +1,6 @@
+- Hein!?
+- Pah!
+- Zut!
+- Miam miam!
+- Heu...
+- Coucou

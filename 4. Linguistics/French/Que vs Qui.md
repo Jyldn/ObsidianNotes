@@ -1,0 +1,1 @@
+Use qui when the following word is a verb or reflexive /object pronoun (e.g. me, te, se, lui, le, la, nous, vous, leur, les, etc), and use que if the following word is a noun (thing or person).

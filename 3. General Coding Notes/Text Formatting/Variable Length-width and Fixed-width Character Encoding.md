@@ -1,0 +1,5 @@
+A variable-width encoding is a type of [[Character Encoding]] scheme in which ==the number of bytes used to represent each character can vary==. This allows for more efficient storage of data, where more common characters use more bytes than less common characters.
+## Variable Length
+UTF-8 *(Unicode Transformation Format - 8-bit)* can use anywhere from **1 to 4 bytes** to represent a character, allowing for multi-lingual character representation. This allows UTF-8 to cover all the characters defined in the Unicode standard, which includes **virtually all known scripts and languages** of the world, as well as many **symbols such as emojis**. It is also backwards compatible with ASCII for the first 128 characters by using one byte for each of those characters.
+## Fixed Length
+[[ASCII]] *(American Standard Code for Information Exchange)* uses fixed-width of 7 bits, which is **one byte** when using the most-common 8-bit storage unit. This limits it to **128 unique symbols**. 

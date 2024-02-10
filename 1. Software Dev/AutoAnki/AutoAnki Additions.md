@@ -1,0 +1,31 @@
+- [x] French verbs should show which preposition they use.
+- [x] Add option to choose your deck the Anki cards are made for
+- [x] Add options for more context:
+	- [x] Usage notes
+	- [x] Etymology
+- [x] [[Devlog 12-1-24#Display Currently Selected Lang]]
+- [x] [[Devlog 12-1-24#Sentence Mode now Phrase Mode]]
+- [x] Indicate spelling error
+- [x] Contact/Bug submission button
+- [x] Little emoji flags next to language
+- [x] Add scrolling to saved words
+- [x] Mark phrases for card creation
+- [x] "The" returns 'DT' and is broken
+- [x] Display plural forms
+- [x] Language sections for saved words
+- [x] Save both definition and table
+- [ ] Consider if exports can be automated to anki and if so write plan
+- [ ] Some sort of backup search. Example: lobhudelnde returns the lemma lobhudelnd
+- [ ] Default folders
+## Todo
+- [ ] Review entire program and rewrite confusing parts, improve clarity by breaking down long functions
+- [x] Lint and tidy code, remove uncecessary functions
+- [x] Tweak card formatting
+- [x] Add compatibility for selectable languages.
+	- [x] Test each language
+		- [x] English
+		- [x] French
+		- [x] German
+		- [x] Latin
+		- [x] Spanish
+- [x] Add participle recognition - example: rempli

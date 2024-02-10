@@ -1,0 +1,3 @@
+- penser à
+- essayer de
+- me demande

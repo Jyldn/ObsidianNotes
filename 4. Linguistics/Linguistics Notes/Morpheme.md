@@ -1,0 +1,3 @@
+A morpheme is the smallest unit of linguistic meaning/expression. The study of this is called Morphology.
+
+In English, morphemes are often, but not necessarily, whole words. Morphemes that stand alone are considered roots. Other morphemes, called **affixes**, are found only in combination with other morphemes. For example, the *-s* in *cats* is a morpheme indicating that the word is a plural, but it cannot exist in isolation.
